@@ -1,7 +1,3 @@
-
-__prepared by: [@AnooshaMohammadi](https://www.github.com/AnooshaMohammadi) and [@MayKhaleghi](https://www.github.com/MayKhaleghi)__
-
-
 # Heap:
 
 The heap is one maximally efficient implementation of an abstract data type called a priority queue, and in fact, priority queues are often referred to as "heaps", regardless of how they may be implemented.
